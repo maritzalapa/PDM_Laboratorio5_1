@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laboratorio_51_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="color1">red</string>
+    <string name="color2">green</string>
+    <string name="color3">blue</string>
+    <string name="color4">yellow</string>
+    <string name="txtRow1">row one</string>
+    <string name="txtRow2">row two</string>
+    <string name="txtRow3">row three</string>
+    <string name="txtRow4">row four</string>
+</resources>
